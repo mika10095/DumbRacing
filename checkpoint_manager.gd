@@ -1,4 +1,5 @@
 extends Node2D
+##WIP checkpoint system
 @export var checkpoints:Array[Vector2] = []
 func check_checkpoint(current_checkpoint:int, car_pos:Vector2, car_speed:Vector2)->int:
 	if current_checkpoint >= checkpoints.size()-1:

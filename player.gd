@@ -1,4 +1,5 @@
 extends Node2D
+##Basic script for anything related to the car the automatic part is WIP
 var move_counter:int = 0
 @onready var checkpoint_manager = %CheckpointManager
 @onready var map = %Map
