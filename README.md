@@ -13,6 +13,7 @@ Supports the [Godot Web Editor](https://editor.godotengine.org/releases/latest/)
 
 Alternatively you can just run the executable loaded with a basic map which will probably not change.[^1]
 
+![Default Map ingame](https://github.com/user-attachments/assets/4664324f-6e98-4524-a3a3-250c238a8a0c)
 ![Default Map](https://github.com/user-attachments/assets/3d7f966d-1dbc-4c6a-aef7-677313e5b971)
 
 
